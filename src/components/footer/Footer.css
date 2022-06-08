@@ -1,0 +1,15 @@
+footer {
+  position: absolute;
+  background: #161619;
+  margin-top: 35px;
+  width: 350px;
+  height: 64px;
+  border-radius: 0px 0px 10px 10px;
+  /* display: flex; */
+}
+
+.images {
+  padding-top: 19px;
+  display: flex;
+  justify-content: space-around;
+}
