@@ -10,8 +10,10 @@ function App() {
     <div className='App'>
       <img src={profile} alt='rob gleason' className='profile--img' />
       <Info />
-      <About />
-      <Interests />
+      <section>
+        <About />
+        <Interests />
+      </section>
       <Footer />
     </div>
   );

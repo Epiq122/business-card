@@ -1,0 +1,11 @@
+h2 {
+  font-size: 16px;
+  color: #f5f5f5;
+  font-weight: 700px;
+  line-height: 150%;
+}
+p {
+  padding-top: 5px;
+  font-size: 11px;
+  color: #dcdcdc;
+}
